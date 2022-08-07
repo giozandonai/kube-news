@@ -58,7 +58,7 @@ spec:
     spec:
       containers:
         - name: kubenews
-          image: giozandonai/kube-news:v2
+          image: giozandonai/kube-news:latest
           env:
           - name: DB_PASSWORD
             value: "Gio@123#"
