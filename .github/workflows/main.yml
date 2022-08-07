@@ -52,4 +52,4 @@ jobs:
         with:
           images: giozandonai/kube-news:${{github.run_number}}
           manifests: |
-            k8s/deployment_kube-news.yaml
+            k8s/deployment.yaml
