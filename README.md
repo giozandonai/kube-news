@@ -1,6 +1,6 @@
 # Projeto kube-news
 ## Sobre o projeto
-O projeto kube-news é um projeto desenvolvido em NodeJS e um banco Postgres.
+O projeto Kube News é um projeto desenvolvido em NodeJS e um banco Postgres.
 
 ### Observações do projeto
 A aplicação é exposta usando a porta 8080
